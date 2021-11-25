@@ -6,7 +6,9 @@
       "build_output_subfolder": "rename081702",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
+      "moniker_ranges": [
+        ">=azs-1802"
+      ],
       "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content"
